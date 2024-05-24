@@ -69,7 +69,7 @@ always @ (posedge (clock))
                    end
                 end	
       endmodule
-Developed by: VARSHA A(212223220121)
+Developed by: Gokul R (212222230039)
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
 ![329509986-aca73eb9-06f3-4222-a0d1-b38b255cda79](https://github.com/04Varsha/JKFLIPFLOP-USING-IF-ELSE/assets/149035374/84cbcf9e-13f5-4361-b2ad-63c0b85495a0)
